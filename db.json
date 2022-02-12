@@ -1,0 +1,92 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Sharma Ketan",
+      "image": "https://unsplash.com/photos/N2IJ31xZ_ks",
+      "currentstatus": "Graduate",
+      "web": "https://sharma-ketann.web.app/",
+      "description": "Learning, Living, Levitating",
+      "country": "India",
+      "linkedin": "www.linkedin.com/in/sharmaketann",
+      "github": "www.github.com/Sharmaketann",
+      "planguages": [
+        "Java",
+        "Javascript",
+        "React",
+        "Mongodb",
+        "SQL",
+        "Analytics"
+      ],
+      "tools": ["Photoshop", "After Effects", "Figma", "VScode", "Github"],
+      "niche": "Full Stack Developer",
+      "specialization": "Web Development"
+    },
+    {
+      "id": 2,
+      "name": "Aman Kumar",
+      "image": "https://unsplash.com/photos/ILip77SbmOE",
+      "currentstatus": "FYMCA",
+      "web": "https://aman-kumar.web.app/",
+      "description": "Learning, Living, Levitating",
+      "country": "India",
+      "linkedin": "www.linkedin.com/in/sharmaketann",
+      "github": "www.github.com/amansingh52",
+      "planguage": [
+        "Java",
+        "Javascript",
+        "React",
+        "Photoshop",
+        "SQL",
+        "Analytics"
+      ],
+      "tools": ["Photoshop", "After Effects", "Figma", "VScode", "Github"],
+      "niche": "Abhi explore kar raha hai",
+      "specialization": "Under Development"
+    },
+    {
+      "id": 3,
+      "name": "Rufus Khalkho",
+      "image": "https://unsplash.com/photos/aNZ-f8n7_3w",
+      "currentstatus": "FYMCA",
+      "web": "https://rufus-khalkho.web.app/",
+      "description": "Learning, Living, Levitating",
+      "country": "India",
+      "linkedin": "www.linkedin.com/in/rufuskhalkho",
+      "github": "www.github.com/rufuskhalkho",
+      "planguage": [
+        "Java",
+        "Javascript",
+        "React",
+        "Photoshop",
+        "SQL",
+        "Analytics"
+      ],
+      "tools": ["Visual Studio", "Eclipse", "SQL", "VScode", "Github"],
+      "niche": "Abhi explore kar raha hai",
+      "specialization": "Under Development"
+    },
+    {
+      "id": 4,
+      "name": "Ritesh Sharma",
+      "image": "https://unsplash.com/photos/i4OHxtxiMtk",
+      "currentstatus": "FYMCA",
+      "web": "https://ritesh-sharma.web.app/",
+      "description": "Learning, Living, Levitating",
+      "country": "India",
+      "linkedin": "www.linkedin.com/in/riteshsharma",
+      "github": "www.github.com/riteshsharma",
+      "planguage": [
+        "Java",
+        "Javascript",
+        "React",
+        "Photoshop",
+        "SQL",
+        "Analytics"
+      ],
+      "tools": ["Android Studio", "VScode", "Figma", "Visual Studio", "Github"],
+      "niche": "Abhi explore kar raha hai",
+      "specialization": "Under Development"
+    }
+  ]
+}
